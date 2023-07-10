@@ -1,0 +1,15 @@
+### Hi there 👋
+
+<!--
+**josephW1805/josephW1805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+👋 Hi, I’m Joseph Weng
+👀 I’m interested in Computer Science, web development and DevOps
+🌱 I’m currently learning C# and Asp .NET, PHP and full stack web development at Algonquin college.
+💞️ I’m looking to collaborate on full stack web project
+📫 How to reach me joseph.weng.1805@gmail.com
+-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephW1805)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephW1805)](https://github.com/anuraghazra/github-readme-stats)
