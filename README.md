@@ -6,7 +6,6 @@
 💞️ I’m looking to collaborate on full stack web project
 📫 How to reach me joseph.weng.1805@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephW1805)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephW1805)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Screenshot](Project.png)
